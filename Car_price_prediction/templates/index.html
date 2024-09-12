@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Prediction</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>*************************</h1>
+        <h1>Car Price Prediction</h1>
+        <form id="car-form" action="/price" method="post">
+            <label for="car_name">Car Name:</label>
+            <input type="text" id="car_name" name="car_name" required>
+
+            <label for="year">Year :</label>
+            <input type="number" id="year" name="year" required>
+
+            <label for="selling_price">Selling Price:(In lakhs)</label>
+            <input type="number" id="selling_price" name="selling_price" step="0.01" required>
+
+            <label for="kms_driven">Kms Driven:</label>
+            <input type="number" id="kms_driven" name="kms_driven" required>
+
+            <label for="fuel_type">Fuel Type:</label>
+            <select id="fuel_type" name="fuel_type" required>
+                <option value="Petrol">Petrol</option>
+                <option value="Diesel">Diesel</option>
+                <option value="CNG">CNG</option>
+            </select>
+
+            <label for="seller_type">Seller Type:</label>
+            <select id="seller_type" name="seller_type" required>
+                <option value="Dealer">Dealer</option>
+                <option value="Individual">Individual</option>
+            </select>
+
+            <label for="transmission">Transmission:</label>
+            <select id="transmission" name="transmission" required>
+                <option value="Manual">Manual</option>
+                <option value="Automatic">Automatic</option>
+            </select>
+
+            <label for="owner">Owner:</label>
+            <input type="number" id="owner" name="owner" required>
+
+            <button type="submit">Predict Price</button>
+        </form>
+
+        <div id="result">
+            <!-- Result will be displayed here -->
+        </div>
+    </div>
+</body>
+</html>
