@@ -1,0 +1,169 @@
+{
+  "build": "py38h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/home/dacg/anaconda3/pkgs/blinker-1.6.2-py38h06a4308_0",
+  "files": [
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/LICENSE.rst",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/METADATA",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/RECORD",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/WHEEL",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/blinker-1.6.2.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/blinker/__init__.py",
+    "lib/python3.8/site-packages/blinker/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/blinker/__pycache__/_saferef.cpython-38.pyc",
+    "lib/python3.8/site-packages/blinker/__pycache__/_utilities.cpython-38.pyc",
+    "lib/python3.8/site-packages/blinker/__pycache__/base.cpython-38.pyc",
+    "lib/python3.8/site-packages/blinker/_saferef.py",
+    "lib/python3.8/site-packages/blinker/_utilities.py",
+    "lib/python3.8/site-packages/blinker/base.py",
+    "lib/python3.8/site-packages/blinker/py.typed"
+  ],
+  "fn": "blinker-1.6.2-py38h06a4308_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/home/dacg/anaconda3/pkgs/blinker-1.6.2-py38h06a4308_0",
+    "type": 1
+  },
+  "md5": "7323afaa2dbec659226643094483bd77",
+  "name": "blinker",
+  "package_tarball_full_path": "/home/dacg/anaconda3/pkgs/blinker-1.6.2-py38h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "9eb73a1f38597a4aa17025d2ae1be3839624c795e985d4f0e9769ce29faca467",
+        "sha256_in_prefix": "9eb73a1f38597a4aa17025d2ae1be3839624c795e985d4f0e9769ce29faca467",
+        "size_in_bytes": 1054
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ecc46c91a6eedb042f588305c20a8fdf0d8b0edf274799c2c47ec09eed59ac13",
+        "sha256_in_prefix": "ecc46c91a6eedb042f588305c20a8fdf0d8b0edf274799c2c47ec09eed59ac13",
+        "size_in_bytes": 1964
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7b2749bdc990f8a124a37ed8cc9fd4419121eed752c6810dedce599981296ce1",
+        "sha256_in_prefix": "7b2749bdc990f8a124a37ed8cc9fd4419121eed752c6810dedce599981296ce1",
+        "size_in_bytes": 1228
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7b5cf96d3b510b62b8b380092e9bdf4c60139b792e7b5b60e361c92a15d10c0f",
+        "sha256_in_prefix": "7b5cf96d3b510b62b8b380092e9bdf4c60139b792e7b5b60e361c92a15d10c0f",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker-1.6.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d8d9ac10d334276b7d67c9a48f11c39863108fb066f1fe594d361ed71d5f66d3",
+        "sha256_in_prefix": "d8d9ac10d334276b7d67c9a48f11c39863108fb066f1fe594d361ed71d5f66d3",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2a8ec46efc720a5fd47b082c3fc5e00c9a89707640ec4b2e846ef647fcc3adc6",
+        "sha256_in_prefix": "2a8ec46efc720a5fd47b082c3fc5e00c9a89707640ec4b2e846ef647fcc3adc6",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad89327e712a86795a7098de15ab7d75d831dd1d29955e7c5cc601602f2cd9de",
+        "sha256_in_prefix": "ad89327e712a86795a7098de15ab7d75d831dd1d29955e7c5cc601602f2cd9de",
+        "size_in_bytes": 483
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/__pycache__/_saferef.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e742d9d5a34a56deb6ea9adc4d1fc3e231dab69580080886345cccba9281bf3",
+        "sha256_in_prefix": "8e742d9d5a34a56deb6ea9adc4d1fc3e231dab69580080886345cccba9281bf3",
+        "size_in_bytes": 7149
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/__pycache__/_utilities.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "28c4211057bf545a9a6e852d1d7bd8c3019c0931927c480acbfddc8aff9742be",
+        "sha256_in_prefix": "28c4211057bf545a9a6e852d1d7bd8c3019c0931927c480acbfddc8aff9742be",
+        "size_in_bytes": 4157
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/__pycache__/base.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fddbe0ca382f49f8c7570355ab6ca768d428950a9fc5ee75faa29d534181a7a1",
+        "sha256_in_prefix": "fddbe0ca382f49f8c7570355ab6ca768d428950a9fc5ee75faa29d534181a7a1",
+        "size_in_bytes": 17248
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/_saferef.py",
+        "path_type": "hardlink",
+        "sha256": "9163932169c263790e6fc9593fbe116f1edb47f04b560e138f0ccd0912e1287b",
+        "sha256_in_prefix": "9163932169c263790e6fc9593fbe116f1edb47f04b560e138f0ccd0912e1287b",
+        "size_in_bytes": 9096
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/_utilities.py",
+        "path_type": "hardlink",
+        "sha256": "18f5ed273ca4cd5a2da311c2efd9a015030f26d202c29543082a6eb38fc9b6c0",
+        "sha256_in_prefix": "18f5ed273ca4cd5a2da311c2efd9a015030f26d202c29543082a6eb38fc9b6c0",
+        "size_in_bytes": 4110
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/base.py",
+        "path_type": "hardlink",
+        "sha256": "ed8f82d195487be36baec90f7aa8f46cb4a9e11e82a6ae4baf32350e62ea3040",
+        "sha256_in_prefix": "ed8f82d195487be36baec90f7aa8f46cb4a9e11e82a6ae4baf32350e62ea3040",
+        "size_in_bytes": 20469
+      },
+      {
+        "_path": "lib/python3.8/site-packages/blinker/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a6e06a9c717d951b2a09d724a4aca267182f91ef4e036ed45cb6f02539ab2e49",
+  "size": 28833,
+  "subdir": "linux-64",
+  "timestamp": 1696539114000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/blinker-1.6.2-py38h06a4308_0.conda",
+  "version": "1.6.2"
+}

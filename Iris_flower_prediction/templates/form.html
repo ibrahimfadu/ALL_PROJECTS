@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Prediction Form</title>
+</head>
+<body>
+    <h1>Flower Prediction Form</h1>
+    <form action="/" method="post">
+        <label for="Sepal_length">Sepal Length:</label>
+        <input type="number" step="any" name="Sepal_length" required><br><br>
+
+        <label for="Sepal_width">Sepal Width:</label>
+        <input type="number" step="any" name="Sepal_width" required><br><br>
+
+        <label for="Petal_length">Petal Length:</label>
+        <input type="number" step="any" name="Petal_length" required><br><br>
+        
+        <label for="Petal_width">Petal Width:</label>
+        <input type="number" step="any" name="Petal_width" required><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if flower %}
+        <h2>Predicted Flower: {{ flower }}</h2>
+    {% endif %}
+</body>
+</html>

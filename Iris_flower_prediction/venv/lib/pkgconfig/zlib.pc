@@ -1,0 +1,13 @@
+prefix=/home/dacg/Ibrahim/model_practice/Iris/venv
+exec_prefix=/home/dacg/Ibrahim/model_practice/Iris/venv
+libdir=/home/dacg/Ibrahim/model_practice/Iris/venv/lib
+sharedlibdir=/home/dacg/Ibrahim/model_practice/Iris/venv/lib
+includedir=/home/dacg/Ibrahim/model_practice/Iris/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
