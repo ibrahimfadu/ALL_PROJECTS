@@ -1,40 +1,40 @@
 COLLEGE,BRANCH,CATEGORIES,Cutoff_2019,Cutoff_2020,Cutoff_2021,Cutoff_2022,Cutoff_2023,Cutoff_2024
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,2AG,0,,,,432,475
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GM,0,,,,249,355
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCG,0,,,,1733,670
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GMR,0,,,,0,0
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCR,0,,,,0,0
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,STG,0,,,,0,0
-University of Visvesvaraya College of Engineering,CE Civil,2AG,,,,,1397,487
-University of Visvesvaraya College of Engineering,CE Civil,GM,,,,,924,370
-University of Visvesvaraya College of Engineering,CE Civil,SCG,,,,,1661,1617
-University of Visvesvaraya College of Engineering,CE Civil,GMR,,,,,1048,529
-University of Visvesvaraya College of Engineering,CE Civil,SCR,,,,,2624,1708
-University of Visvesvaraya College of Engineering,CE Civil,STG,,,,,,3236
-University of Visvesvaraya College of Engineering,CS Computers,2AG,128,,,,,95
-University of Visvesvaraya College of Engineering,CS Computers,GM,69,,,,,71
-University of Visvesvaraya College of Engineering,CS Computers,SCG,,,,,,369
-University of Visvesvaraya College of Engineering,CS Computers,GMR,,,,,,0
-University of Visvesvaraya College of Engineering,CS Computers,SCR,,,,,,0
-University of Visvesvaraya College of Engineering,CS Computers,STG,,,,,,568
-University of Visvesvaraya College of Engineering,EC Electronics,2AG,,,,,,358
-University of Visvesvaraya College of Engineering,EC Electronics,GM,,,,,,261
-University of Visvesvaraya College of Engineering,EC Electronics,SCG,,,,,,822
-University of Visvesvaraya College of Engineering,EC Electronics,GMR,,,,,,464
-University of Visvesvaraya College of Engineering,EC Electronics,SCR,,,,,,1758
-University of Visvesvaraya College of Engineering,EC Electronics,STG,,,,,,0
-University of Visvesvaraya College of Engineering,EE Electrical,2AG,511,,,,,338
-University of Visvesvaraya College of Engineering,EE Electrical,GM,,,,,,321
-University of Visvesvaraya College of Engineering,EE Electrical,SCG,,,,,,517
-University of Visvesvaraya College of Engineering,EE Electrical,GMR,,,,,,0
-University of Visvesvaraya College of Engineering,EE Electrical,SCR,,,,,,0
-University of Visvesvaraya College of Engineering,EE Electrical,STG,,,,,,691
-University of Visvesvaraya College of Engineering,ME Mechanical,2AG,,,,,,1078
-University of Visvesvaraya College of Engineering,ME Mechanical,GM,,,,,,685
-University of Visvesvaraya College of Engineering,ME Mechanical,SCG,,,,,,1699
-University of Visvesvaraya College of Engineering,ME Mechanical,GMR,,,,,,773
-University of Visvesvaraya College of Engineering,ME Mechanical,SCR,,,,,,0
-University of Visvesvaraya College of Engineering,ME Mechanical,STG,,,,,,2696
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,2AG,0,,,371,432,475
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GM,0,,,298,249,355
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCG,0,,,815,1733,670
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GMR,0,,,1201,0,0
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCR,0,,,0,0,0
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,STG,0,,,0,0,0
+University of Visvesvaraya College of Engineering,CE Civil,2AG,,,,811,1397,487
+University of Visvesvaraya College of Engineering,CE Civil,GM,,,,356,924,370
+University of Visvesvaraya College of Engineering,CE Civil,SCG,,,,613,1661,1617
+University of Visvesvaraya College of Engineering,CE Civil,GMR,,,,0,1048,529
+University of Visvesvaraya College of Engineering,CE Civil,SCR,,,,0,2624,1708
+University of Visvesvaraya College of Engineering,CE Civil,STG,,,,0,1794,3236
+University of Visvesvaraya College of Engineering,CS Computers,2AG,128,,,188,59,95
+University of Visvesvaraya College of Engineering,CS Computers,GM,69,,,61,49,71
+University of Visvesvaraya College of Engineering,CS Computers,SCG,,,,526,433,369
+University of Visvesvaraya College of Engineering,CS Computers,GMR,,,,133,0,0
+University of Visvesvaraya College of Engineering,CS Computers,SCR,,,,0,0,0
+University of Visvesvaraya College of Engineering,CS Computers,STG,,,,0,0,568
+University of Visvesvaraya College of Engineering,EC Electronics,2AG,,,,245,190,358
+University of Visvesvaraya College of Engineering,EC Electronics,GM,,,,244,186,261
+University of Visvesvaraya College of Engineering,EC Electronics,SCG,,,,515,383,822
+University of Visvesvaraya College of Engineering,EC Electronics,GMR,,,,0,0,464
+University of Visvesvaraya College of Engineering,EC Electronics,SCR,,,,2602,0,1758
+University of Visvesvaraya College of Engineering,EC Electronics,STG,,,,0,1857,0
+University of Visvesvaraya College of Engineering,EE Electrical,2AG,511,,,,176,338
+University of Visvesvaraya College of Engineering,EE Electrical,GM,,,,,143,321
+University of Visvesvaraya College of Engineering,EE Electrical,SCG,,,,,337,517
+University of Visvesvaraya College of Engineering,EE Electrical,GMR,,,,,270,0
+University of Visvesvaraya College of Engineering,EE Electrical,SCR,,,,,0,0
+University of Visvesvaraya College of Engineering,EE Electrical,STG,,,,,0,691
+University of Visvesvaraya College of Engineering,ME Mechanical,2AG,,,,,1882,1078
+University of Visvesvaraya College of Engineering,ME Mechanical,GM,,,,,87655,685
+University of Visvesvaraya College of Engineering,ME Mechanical,SCG,,,,,2521,1699
+University of Visvesvaraya College of Engineering,ME Mechanical,GMR,,,,,1735,773
+University of Visvesvaraya College of Engineering,ME Mechanical,SCR,,,,,3086,0
+University of Visvesvaraya College of Engineering,ME Mechanical,STG,,,,,4999,2696
 R. V. College of Engineering,AI Artificial Intelligence,2AG,,,,,,147
 R. V. College of Engineering,AI Artificial Intelligence,GM,,,,,,110
 R. V. College of Engineering,AI Artificial Intelligence,SCG,,,,,,641
