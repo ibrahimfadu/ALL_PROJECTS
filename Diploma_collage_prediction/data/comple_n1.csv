@@ -1,361 +1,361 @@
-COLLEGE,BRANCH,CATEGORIES,,Cutoff_2019,Cutoff_2020,Cutoff_2021,Cutoff_2022,Cutoff_2023,Cutoff_2024
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,2AG,475,0,,,371,432,475
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GM,355,0,,,298,249,355
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCG,670,0,,,815,1733,670
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GMR,0,0,,,1201,0,0
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCR,0,0,,,0,0,0
-University of Visvesvaraya College of Engineering,AI Artificial Intelligence,STG,0,0,,,0,0,0
-University of Visvesvaraya College of Engineering,CE Civil,2AG,487,343,,,811,1397,487
-University of Visvesvaraya College of Engineering,CE Civil,GM,370,211,,,356,924,370
-University of Visvesvaraya College of Engineering,CE Civil,SCG,1617,391,,,613,1661,1617
-University of Visvesvaraya College of Engineering,CE Civil,GMR,529,0,,,0,1048,529
-University of Visvesvaraya College of Engineering,CE Civil,SCR,1708,1433,,,0,2624,1708
-University of Visvesvaraya College of Engineering,CE Civil,STG,3236,0,,,0,1794,3236
-University of Visvesvaraya College of Engineering,CS Computers,2AG,95,128,,,188,59,95
-University of Visvesvaraya College of Engineering,CS Computers,GM,71,69,,,61,49,71
-University of Visvesvaraya College of Engineering,CS Computers,SCG,369,663,,,526,433,369
-University of Visvesvaraya College of Engineering,CS Computers,GMR,0,261,,,133,0,0
-University of Visvesvaraya College of Engineering,CS Computers,SCR,0,0,,,0,0,0
-University of Visvesvaraya College of Engineering,CS Computers,STG,568,0,,,0,0,568
-University of Visvesvaraya College of Engineering,EC Electronics,2AG,358,0,,,245,190,358
-University of Visvesvaraya College of Engineering,EC Electronics,GM,261,94,,,244,186,261
-University of Visvesvaraya College of Engineering,EC Electronics,SCG,822,0,,,515,383,822
-University of Visvesvaraya College of Engineering,EC Electronics,GMR,464,0,,,0,0,464
-University of Visvesvaraya College of Engineering,EC Electronics,SCR,1758,0,,,2602,0,1758
-University of Visvesvaraya College of Engineering,EC Electronics,STG,0,239,,,0,1857,0
-University of Visvesvaraya College of Engineering,EE Electrical,2AG,338,511,,,,176,338
-University of Visvesvaraya College of Engineering,EE Electrical,GM,321,220,,,,143,321
-University of Visvesvaraya College of Engineering,EE Electrical,SCG,517,303,,,,337,517
-University of Visvesvaraya College of Engineering,EE Electrical,GMR,0,0,,,,270,0
-University of Visvesvaraya College of Engineering,EE Electrical,SCR,0,0,,,,0,0
-University of Visvesvaraya College of Engineering,EE Electrical,STG,691,0,,,,0,691
-University of Visvesvaraya College of Engineering,ME Mechanical,2AG,1078,114,,,,1882,1078
-University of Visvesvaraya College of Engineering,ME Mechanical,GM,685,113,,,,87655,685
-University of Visvesvaraya College of Engineering,ME Mechanical,SCG,1699,398,,,,2521,1699
-University of Visvesvaraya College of Engineering,ME Mechanical,GMR,773,263,,,,1735,773
-University of Visvesvaraya College of Engineering,ME Mechanical,SCR,0,0,,,,3086,0
-University of Visvesvaraya College of Engineering,ME Mechanical,STG,2696,0,,,,4999,2696
-R. V. College of Engineering,AI Artificial Intelligence,2AG,147,0,,,,,147
-R. V. College of Engineering,AI Artificial Intelligence,GM,110,0,,,,,110
-R. V. College of Engineering,AI Artificial Intelligence,SCG,641,0,,,,,641
-R. V. College of Engineering,AI Artificial Intelligence,GMR,0,0,,,,,0
-R. V. College of Engineering,AI Artificial Intelligence,SCR,0,0,,,,,0
-R. V. College of Engineering,AI Artificial Intelligence,STG,1084,0,,,,,1084
-R. V. College of Engineering,CE Civil,2AG,0,337,,,,,0
-R. V. College of Engineering,CE Civil,GM,234,56,,,,,234
-R. V. College of Engineering,CE Civil,SCG,0,365,,,,,0
-R. V. College of Engineering,CE Civil,GMR,0,160,,,,,0
-R. V. College of Engineering,CE Civil,SCR,0,0,,,,,0
-R. V. College of Engineering,CE Civil,STG,3856,0,,,,,3856
-R. V. College of Engineering,CS Computers,2AG,28,111,,,,,28
-R. V. College of Engineering,CS Computers,GM,15,81,,,,,15
-R. V. College of Engineering,CS Computers,SCG,61,445,,,,,61
-R. V. College of Engineering,CS Computers,GMR,132,137,,,,,132
-R. V. College of Engineering,CS Computers,SCR,826,0,,,,,826
-R. V. College of Engineering,CS Computers,STG,235,0,,,,,235
-R. V. College of Engineering,EC Electronics,2AG,138,194,,,,,138
-R. V. College of Engineering,EC Electronics,GM,57,62,,,,,57
-R. V. College of Engineering,EC Electronics,SCG,158,1052,,,,,158
-R. V. College of Engineering,EC Electronics,GMR,231,138,,,,,231
-R. V. College of Engineering,EC Electronics,SCR,763,1428,,,,,763
-R. V. College of Engineering,EC Electronics,STG,345,0,,,,,345
-R. V. College of Engineering,EE Electrical,2AG,100,320,,,,,100
-R. V. College of Engineering,EE Electrical,GM,84,252,,,,,84
-R. V. College of Engineering,EE Electrical,SCG,123,1115,,,,,123
-R. V. College of Engineering,EE Electrical,GMR,0,0,,,,,0
-R. V. College of Engineering,EE Electrical,SCR,0,0,,,,,0
-R. V. College of Engineering,EE Electrical,STG,0,0,,,,,0
-R. V. College of Engineering,ME Mechanical,2AG,346,59,,,,,346
-R. V. College of Engineering,ME Mechanical,GM,192,18,,,,,192
-R. V. College of Engineering,ME Mechanical,SCG,362,133,,,,,362
-R. V. College of Engineering,ME Mechanical,GMR,541,50,,,,,541
-R. V. College of Engineering,ME Mechanical,SCR,0,0,,,,,0
-R. V. College of Engineering,ME Mechanical,STG,701,0,,,,,701
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,2AG,695,0,,,,,695
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,GM,684,0,,,,,684
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,SCG,1640,0,,,,,1640
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,GMR,1124,0,,,,,1124
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,SCR,0,0,,,,,0
-Dayananda Sagar College of Engineering,AI Artificial Intelligence,STG,0,0,,,,,0
-Dayananda Sagar College of Engineering,CE Civil,2AG,2403,2833,,,,,2403
-Dayananda Sagar College of Engineering,CE Civil,GM,1531,2331,,,,,1531
-Dayananda Sagar College of Engineering,CE Civil,SCG,2916,2881,,,,,2916
-Dayananda Sagar College of Engineering,CE Civil,GMR,1800,2549,,,,,1800
-Dayananda Sagar College of Engineering,CE Civil,SCR,3524,0,,,,,3524
-Dayananda Sagar College of Engineering,CE Civil,STG,4147,0,,,,,4147
-Dayananda Sagar College of Engineering,CS Computers,2AG,484,1649,,,,,484
-Dayananda Sagar College of Engineering,CS Computers,GM,439,1020,,,,,439
-Dayananda Sagar College of Engineering,CS Computers,SCG,1497,2388,,,,,1497
-Dayananda Sagar College of Engineering,CS Computers,GMR,535,1843,,,,,535
-Dayananda Sagar College of Engineering,CS Computers,SCR,1962,0,,,,,1962
-Dayananda Sagar College of Engineering,CS Computers,STG,1930,0,,,,,1930
-Dayananda Sagar College of Engineering,EC Electronics,2AG,765,1601,,,,,765
-Dayananda Sagar College of Engineering,EC Electronics,GM,609,1400,,,,,609
-Dayananda Sagar College of Engineering,EC Electronics,SCG,2227,1780,,,,,2227
-Dayananda Sagar College of Engineering,EC Electronics,GMR,803,1509,,,,,803
-Dayananda Sagar College of Engineering,EC Electronics,SCR,3219,1823,,,,,3219
-Dayananda Sagar College of Engineering,EC Electronics,STG,1407,0,,,,,1407
-Dayananda Sagar College of Engineering,EE Electrical,2AG,736,1786,,,,,736
-Dayananda Sagar College of Engineering,EE Electrical,GM,709,1768,,,,,709
-Dayananda Sagar College of Engineering,EE Electrical,SCG,885,1789,,,,,885
-Dayananda Sagar College of Engineering,EE Electrical,GMR,0,0,,,,,0
-Dayananda Sagar College of Engineering,EE Electrical,SCR,0,0,,,,,0
-Dayananda Sagar College of Engineering,EE Electrical,STG,1804,0,,,,,1804
-Dayananda Sagar College of Engineering,ME Mechanical,2AG,2719,955,,,,,2719
-Dayananda Sagar College of Engineering,ME Mechanical,GM,1861,900,,,,,1861
-Dayananda Sagar College of Engineering,ME Mechanical,SCG,2868,1439,,,,,2868
-Dayananda Sagar College of Engineering,ME Mechanical,GMR,0,994,,,,,0
-Dayananda Sagar College of Engineering,ME Mechanical,SCR,0,0,,,,,0
-Dayananda Sagar College of Engineering,ME Mechanical,STG,4337,0,,,,,4337
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,2AG,0,0,,,,,0
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,GM,2170,0,,,,,2170
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,SCG,2841,0,,,,,2841
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,GMR,2857,0,,,,,2857
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,SCR,0,0,,,,,0
-Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,STG,0,0,,,,,0
-Sir M.Visveswaraya Institute of Technology,CE Civil,2AG,4828,1959,,,,,
-Sir M.Visveswaraya Institute of Technology,CE Civil,GM,3282,978,,,,,
-Sir M.Visveswaraya Institute of Technology,CE Civil,SCG,3446,1945,,,,,
-Sir M.Visveswaraya Institute of Technology,CE Civil,GMR,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,CE Civil,SCR,0,4628,,,,,
-Sir M.Visveswaraya Institute of Technology,CE Civil,STG,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,2AG,2162,2650,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,GM,1664,2277,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,SCG,3016,2577,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,GMR,2001,3745,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,SCR,5123,0,,,,,
-Sir M.Visveswaraya Institute of Technology,CS Computers,STG,3106,0,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,2AG,1888,1668,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,GM,1885,1375,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,SCG,2848,3717,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,GMR,2060,1894,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,SCR,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,EC Electronics,STG,2654,0,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,2AG,3088,3362,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,GM,1993,2465,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,SCG,2268,4095,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,GMR,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,SCR,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,EE Electrical,STG,5187,0,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,2AG,4162,2256,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,GM,2761,1987,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,SCG,3266,2320,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,GMR,3593,0,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,SCR,0,0,,,,,
-Sir M.Visveswaraya Institute of Technology,ME Mechanical,STG,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,2AG,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,GM,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,SCG,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,GMR,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,SCR,0,0,,,,,
-S J C Institute of Technology,AI Artificial Intelligence,STG,0,0,,,,,
-S J C Institute of Technology,CE Civil,2AG,8029,12486,,,,,
-S J C Institute of Technology,CE Civil,GM,3995,8569,,,,,
-S J C Institute of Technology,CE Civil,SCG,10588,14947,,,,,
-S J C Institute of Technology,CE Civil,GMR,0,0,,,,,
-S J C Institute of Technology,CE Civil,SCR,0,0,,,,,
-S J C Institute of Technology,CE Civil,STG,0,10109,,,,,
-S J C Institute of Technology,CS Computers,2AG,13031,7864,,,,,
-S J C Institute of Technology,CS Computers,GM,6964,6833,,,,,
-S J C Institute of Technology,CS Computers,SCG,0,0,,,,,
-S J C Institute of Technology,CS Computers,GMR,0,9784,,,,,
-S J C Institute of Technology,CS Computers,SCR,7884,0,,,,,
-S J C Institute of Technology,CS Computers,STG,12419,0,,,,,
-S J C Institute of Technology,EC Electronics,2AG,4115,11072,,,,,
-S J C Institute of Technology,EC Electronics,GM,3715,7158,,,,,
-S J C Institute of Technology,EC Electronics,SCG,13944,0,,,,,
-S J C Institute of Technology,EC Electronics,GMR,5417,9803,,,,,
-S J C Institute of Technology,EC Electronics,SCR,0,0,,,,,
-S J C Institute of Technology,EC Electronics,STG,7545,0,,,,,
-S J C Institute of Technology,EE Electrical,2AG,0,0,,,,,
-S J C Institute of Technology,EE Electrical,GM,0,0,,,,,
-S J C Institute of Technology,EE Electrical,SCG,0,0,,,,,
-S J C Institute of Technology,EE Electrical,GMR,0,0,,,,,
-S J C Institute of Technology,EE Electrical,SCR,0,0,,,,,
-S J C Institute of Technology,EE Electrical,STG,0,0,,,,,
-S J C Institute of Technology,ME Mechanical,2AG,0,6032,,,,,
-S J C Institute of Technology,ME Mechanical,GM,1801,2785,,,,,
-S J C Institute of Technology,ME Mechanical,SCG,0,5751,,,,,
-S J C Institute of Technology,ME Mechanical,GMR,0,3697,,,,,
-S J C Institute of Technology,ME Mechanical,SCR,0,0,,,,,
-S J C Institute of Technology,ME Mechanical,STG,0,5845,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,2AG,0,0,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,GM,0,0,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,SCG,0,0,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,GMR,0,0,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,SCR,0,0,,,,,
-Siddaganga Institute of Technology,AI Artificial Intelligence,STG,0,0,,,,,
-Siddaganga Institute of Technology,CE Civil,2AG,1536,449,,,,,
-Siddaganga Institute of Technology,CE Civil,GM,626,168,,,,,
-Siddaganga Institute of Technology,CE Civil,SCG,2979,1356,,,,,
-Siddaganga Institute of Technology,CE Civil,GMR,878,214,,,,,
-Siddaganga Institute of Technology,CE Civil,SCR,0,0,,,,,
-Siddaganga Institute of Technology,CE Civil,STG,2670,0,,,,,
-Siddaganga Institute of Technology,CS Computers,2AG,550,1979,,,,,
-Siddaganga Institute of Technology,CS Computers,GM,435,722,,,,,
-Siddaganga Institute of Technology,CS Computers,SCG,1199,4464,,,,,
-Siddaganga Institute of Technology,CS Computers,GMR,680,1513,,,,,
-Siddaganga Institute of Technology,CS Computers,SCR,3382,0,,,,,
-Siddaganga Institute of Technology,CS Computers,STG,2479,0,,,,,
-Siddaganga Institute of Technology,EC Electronics,2AG,756,507,,,,,
-Siddaganga Institute of Technology,EC Electronics,GM,566,336,,,,,
-Siddaganga Institute of Technology,EC Electronics,SCG,983,1455,,,,,
-Siddaganga Institute of Technology,EC Electronics,GMR,777,0,,,,,
-Siddaganga Institute of Technology,EC Electronics,SCR,0,0,,,,,
-Siddaganga Institute of Technology,EC Electronics,STG,1944,0,,,,,
-Siddaganga Institute of Technology,EE Electrical,2AG,1016,807,,,,,
-Siddaganga Institute of Technology,EE Electrical,GM,746,756,,,,,
-Siddaganga Institute of Technology,EE Electrical,SCG,1741,4504,,,,,
-Siddaganga Institute of Technology,EE Electrical,GMR,0,0,,,,,
-Siddaganga Institute of Technology,EE Electrical,SCR,0,0,,,,,
-Siddaganga Institute of Technology,EE Electrical,STG,0,0,,,,,
-Siddaganga Institute of Technology,ME Mechanical,2AG,2159,808,,,,,
-Siddaganga Institute of Technology,ME Mechanical,GM,1503,462,,,,,
-Siddaganga Institute of Technology,ME Mechanical,SCG,4833,1901,,,,,
-Siddaganga Institute of Technology,ME Mechanical,GMR,0,595,,,,,
-Siddaganga Institute of Technology,ME Mechanical,SCR,0,0,,,,,
-Siddaganga Institute of Technology,ME Mechanical,STG,3280,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,2AG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,GM,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,SCG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,GMR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,SCR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,STG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,2AG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,GM,1790,92,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,SCG,2629,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,GMR,0,156,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,SCR,3675,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CE Civil,STG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,2AG,333,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,GM,167,116,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,SCG,454,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,GMR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,SCR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),CS Computers,STG,0,753,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,2AG,0,310,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,GM,301,183,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,SCG,0,826,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,GMR,0,280,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,SCR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),EC Electronics,STG,1794,0,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,2AG,0,276,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,GM,0,271,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,SCG,0,769,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,GMR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,SCR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),EE Electrical,STG,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,2AG,0,266,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,GM,1803,169,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,SCG,0,761,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,GMR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,SCR,0,0,,,,,
-JSS Science and Technology University(Formerly SJCE),ME Mechanical,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,2AG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,GM,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,SCG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,GMR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,SCR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,2AG,3156,1007,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,GM,2549,464,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,SCG,7624,1099,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,GMR,0,578,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,SCR,14801,4034,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,2AG,4122,4980,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,GM,2252,1418,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,SCG,10075,4240,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,GMR,4549,3452,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,SCR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,2AG,0,1067,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,GM,3449,605,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,SCG,0,1749,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,GMR,4622,965,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,SCR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,2AG,0,2437,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,GM,0,1738,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,SCG,0,3654,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,GMR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,SCR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,STG,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,2AG,0,1163,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,GM,4862,788,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,SCG,11551,1491,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,GMR,0,977,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,SCR,0,0,,,,,
-K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,STG,0,4181,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,2AG,0,0,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,GM,0,0,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,SCG,0,0,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,GMR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,SCR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,STG,0,0,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,2AG,3039,1125,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,GM,1120,366,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,SCG,3946,482,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,GMR,3699,0,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,SCR,0,4188,,,,,
-K.L.S. Gogte Institute of Technology,CE Civil,STG,0,0,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,2AG,938,1283,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,GM,789,1147,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,SCG,3515,2977,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,GMR,2287,1394,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,SCR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,CS Computers,STG,2048,8958,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,2AG,1839,963,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,GM,1092,272,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,SCG,6319,1583,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,GMR,1303,766,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,SCR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,EC Electronics,STG,5426,0,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,2AG,1340,1301,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,GM,1206,1131,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,SCG,0,0,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,GMR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,SCR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,EE Electrical,STG,2771,0,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,2AG,0,1003,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,GM,1511,486,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,SCG,3431,1472,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,GMR,0,497,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,SCR,0,0,,,,,
-K.L.S. Gogte Institute of Technology,ME Mechanical,STG,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,2AG,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,GM,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,SCG,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,GMR,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,SCR,0,0,,,,,
-N M A M Institutute of Technology,AI Artificial Intelligence,STG,0,0,,,,,
-N M A M Institutute of Technology,CE Civil,2AG,4302,5597,,,,,
-N M A M Institutute of Technology,CE Civil,GM,3369,4822,,,,,
-N M A M Institutute of Technology,CE Civil,SCG,3933,6314,,,,,
-N M A M Institutute of Technology,CE Civil,GMR,3450,4896,,,,,
-N M A M Institutute of Technology,CE Civil,SCR,0,10936,,,,,
-N M A M Institutute of Technology,CE Civil,STG,4962,0,,,,,
-N M A M Institutute of Technology,CS Computers,2AG,1729,4550,,,,,
-N M A M Institutute of Technology,CS Computers,GM,1217,2281,,,,,
-N M A M Institutute of Technology,CS Computers,SCG,3655,0,,,,,
-N M A M Institutute of Technology,CS Computers,GMR,1229,2757,,,,,
-N M A M Institutute of Technology,CS Computers,SCR,0,0,,,,,
-N M A M Institutute of Technology,CS Computers,STG,0,0,,,,,
-N M A M Institutute of Technology,EC Electronics,2AG,3723,5906,,,,,
-N M A M Institutute of Technology,EC Electronics,GM,2277,3888,,,,,
-N M A M Institutute of Technology,EC Electronics,SCG,6958,13798,,,,,
-N M A M Institutute of Technology,EC Electronics,GMR,2483,4801,,,,,
-N M A M Institutute of Technology,EC Electronics,SCR,0,0,,,,,
-N M A M Institutute of Technology,EC Electronics,STG,0,0,,,,,
-N M A M Institutute of Technology,EE Electrical,2AG,2134,3977,,,,,
-N M A M Institutute of Technology,EE Electrical,GM,1170,3653,,,,,
-N M A M Institutute of Technology,EE Electrical,SCG,5965,5635,,,,,
-N M A M Institutute of Technology,EE Electrical,GMR,1207,3783,,,,,
-N M A M Institutute of Technology,EE Electrical,SCR,6243,0,,,,,
-N M A M Institutute of Technology,EE Electrical,STG,0,0,,,,,
-N M A M Institutute of Technology,ME Mechanical,2AG,3315,7189,,,,,
-N M A M Institutute of Technology,ME Mechanical,GM,3024,6159,,,,,
-N M A M Institutute of Technology,ME Mechanical,SCG,6138,7762,,,,,
-N M A M Institutute of Technology,ME Mechanical,GMR,0,6746,,,,,
-N M A M Institutute of Technology,ME Mechanical,SCR,9008,0,,,,,
-N M A M Institutute of Technology,ME Mechanical,STG,0,0,,,,,
+COLLEGE,BRANCH,CATEGORIES,Cutoff_2019,Cutoff_2020,Cutoff_2021,Cutoff_2022,Cutoff_2023,Cutoff_2024
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,2AG,0,0,0,371,432,475
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GM,0,0,0,298,249,355
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCG,0,0,0,815,1733,670
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,GMR,0,0,0,1201,0,0
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,SCR,0,0,0,0,0,0
+University of Visvesvaraya College of Engineering,AI Artificial Intelligence,STG,0,0,0,0,0,0
+University of Visvesvaraya College of Engineering,CE Civil,2AG,343,133,216,811,1397,487
+University of Visvesvaraya College of Engineering,CE Civil,GM,211,90,201,356,924,370
+University of Visvesvaraya College of Engineering,CE Civil,SCG,391,511,492,613,1661,1617
+University of Visvesvaraya College of Engineering,CE Civil,GMR,0,316,271,0,1048,529
+University of Visvesvaraya College of Engineering,CE Civil,SCR,1433,0,0,0,2624,1708
+University of Visvesvaraya College of Engineering,CE Civil,STG,0,0,0,0,1794,3236
+University of Visvesvaraya College of Engineering,CS Computers,2AG,128,291,0,188,59,95
+University of Visvesvaraya College of Engineering,CS Computers,GM,69,154,59,61,49,71
+University of Visvesvaraya College of Engineering,CS Computers,SCG,663,175,0,526,433,369
+University of Visvesvaraya College of Engineering,CS Computers,GMR,261,0,0,133,0,0
+University of Visvesvaraya College of Engineering,CS Computers,SCR,0,0,0,0,0,0
+University of Visvesvaraya College of Engineering,CS Computers,STG,0,0,559,0,0,568
+University of Visvesvaraya College of Engineering,EC Electronics,2AG,0,0,0,245,190,358
+University of Visvesvaraya College of Engineering,EC Electronics,GM,94,0,218,244,186,261
+University of Visvesvaraya College of Engineering,EC Electronics,SCG,0,0,432,515,383,822
+University of Visvesvaraya College of Engineering,EC Electronics,GMR,0,0,0,0,0,464
+University of Visvesvaraya College of Engineering,EC Electronics,SCR,0,0,0,2602,0,1758
+University of Visvesvaraya College of Engineering,EC Electronics,STG,239,1879,0,0,1857,0
+University of Visvesvaraya College of Engineering,EE Electrical,2AG,511,377,705,117,176,338
+University of Visvesvaraya College of Engineering,EE Electrical,GM,220,280,311,91,143,321
+University of Visvesvaraya College of Engineering,EE Electrical,SCG,303,345,853,912,337,517
+University of Visvesvaraya College of Engineering,EE Electrical,GMR,0,325,441,333,270,0
+University of Visvesvaraya College of Engineering,EE Electrical,SCR,0,0,0,0,0,0
+University of Visvesvaraya College of Engineering,EE Electrical,STG,0,0,0,0,0,691
+University of Visvesvaraya College of Engineering,ME Mechanical,2AG,114,114,171,510,1882,1078
+University of Visvesvaraya College of Engineering,ME Mechanical,GM,113,88,117,389,876,685
+University of Visvesvaraya College of Engineering,ME Mechanical,SCG,398,254,233,579,2521,1699
+University of Visvesvaraya College of Engineering,ME Mechanical,GMR,263,0,202,392,1735,773
+University of Visvesvaraya College of Engineering,ME Mechanical,SCR,0,495,0,0,3086,0
+University of Visvesvaraya College of Engineering,ME Mechanical,STG,0,0,0,0,4999,2696
+R. V. College of Engineering,AI Artificial Intelligence,2AG,0,0,,,,147
+R. V. College of Engineering,AI Artificial Intelligence,GM,0,0,,,,110
+R. V. College of Engineering,AI Artificial Intelligence,SCG,0,0,,,,641
+R. V. College of Engineering,AI Artificial Intelligence,GMR,0,0,,,,0
+R. V. College of Engineering,AI Artificial Intelligence,SCR,0,0,,,,0
+R. V. College of Engineering,AI Artificial Intelligence,STG,0,0,,,,1084
+R. V. College of Engineering,CE Civil,2AG,337,187,,,,0
+R. V. College of Engineering,CE Civil,GM,56,155,,,,234
+R. V. College of Engineering,CE Civil,SCG,365,383,,,,0
+R. V. College of Engineering,CE Civil,GMR,160,0,,,,0
+R. V. College of Engineering,CE Civil,SCR,0,2072,,,,0
+R. V. College of Engineering,CE Civil,STG,0,0,,,,3856
+R. V. College of Engineering,CS Computers,2AG,111,183,,,,28
+R. V. College of Engineering,CS Computers,GM,81,131,,,,15
+R. V. College of Engineering,CS Computers,SCG,445,0,,,,61
+R. V. College of Engineering,CS Computers,GMR,137,153,,,,132
+R. V. College of Engineering,CS Computers,SCR,0,0,,,,826
+R. V. College of Engineering,CS Computers,STG,0,0,,,,235
+R. V. College of Engineering,EC Electronics,2AG,194,73,,,,138
+R. V. College of Engineering,EC Electronics,GM,62,45,,,,57
+R. V. College of Engineering,EC Electronics,SCG,1052,913,,,,158
+R. V. College of Engineering,EC Electronics,GMR,138,170,,,,231
+R. V. College of Engineering,EC Electronics,SCR,1428,3154,,,,763
+R. V. College of Engineering,EC Electronics,STG,0,0,,,,345
+R. V. College of Engineering,EE Electrical,2AG,320,118,,,,100
+R. V. College of Engineering,EE Electrical,GM,252,116,,,,84
+R. V. College of Engineering,EE Electrical,SCG,1115,320,,,,123
+R. V. College of Engineering,EE Electrical,GMR,0,150,,,,0
+R. V. College of Engineering,EE Electrical,SCR,0,0,,,,0
+R. V. College of Engineering,EE Electrical,STG,0,0,,,,0
+R. V. College of Engineering,ME Mechanical,2AG,59,36,,,,346
+R. V. College of Engineering,ME Mechanical,GM,18,21,,,,192
+R. V. College of Engineering,ME Mechanical,SCG,133,227,,,,362
+R. V. College of Engineering,ME Mechanical,GMR,50,134,,,,541
+R. V. College of Engineering,ME Mechanical,SCR,0,0,,,,0
+R. V. College of Engineering,ME Mechanical,STG,0,0,,,,701
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,2AG,0,0,,,,695
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,GM,0,0,,,,684
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,SCG,0,0,,,,1640
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,GMR,0,0,,,,1124
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,SCR,0,0,,,,0
+Dayananda Sagar College of Engineering,AI Artificial Intelligence,STG,0,0,,,,0
+Dayananda Sagar College of Engineering,CE Civil,2AG,2833,4802,,,,2403
+Dayananda Sagar College of Engineering,CE Civil,GM,2331,4232,,,,1531
+Dayananda Sagar College of Engineering,CE Civil,SCG,2881,4784,,,,2916
+Dayananda Sagar College of Engineering,CE Civil,GMR,2549,4510,,,,1800
+Dayananda Sagar College of Engineering,CE Civil,SCR,0,0,,,,3524
+Dayananda Sagar College of Engineering,CE Civil,STG,0,0,,,,4147
+Dayananda Sagar College of Engineering,CS Computers,2AG,1649,1326,,,,484
+Dayananda Sagar College of Engineering,CS Computers,GM,1020,782,,,,439
+Dayananda Sagar College of Engineering,CS Computers,SCG,2388,3085,,,,1497
+Dayananda Sagar College of Engineering,CS Computers,GMR,1843,1158,,,,535
+Dayananda Sagar College of Engineering,CS Computers,SCR,0,4578,,,,1962
+Dayananda Sagar College of Engineering,CS Computers,STG,0,0,,,,1930
+Dayananda Sagar College of Engineering,EC Electronics,2AG,1601,1234,,,,765
+Dayananda Sagar College of Engineering,EC Electronics,GM,1400,1189,,,,609
+Dayananda Sagar College of Engineering,EC Electronics,SCG,1780,2487,,,,2227
+Dayananda Sagar College of Engineering,EC Electronics,GMR,1509,2411,,,,803
+Dayananda Sagar College of Engineering,EC Electronics,SCR,1823,0,,,,3219
+Dayananda Sagar College of Engineering,EC Electronics,STG,0,0,,,,1407
+Dayananda Sagar College of Engineering,EE Electrical,2AG,1786,2066,,,,736
+Dayananda Sagar College of Engineering,EE Electrical,GM,1768,2039,,,,709
+Dayananda Sagar College of Engineering,EE Electrical,SCG,1789,2202,,,,885
+Dayananda Sagar College of Engineering,EE Electrical,GMR,0,2098,,,,0
+Dayananda Sagar College of Engineering,EE Electrical,SCR,0,0,,,,0
+Dayananda Sagar College of Engineering,EE Electrical,STG,0,0,,,,1804
+Dayananda Sagar College of Engineering,ME Mechanical,2AG,955,1386,,,,2719
+Dayananda Sagar College of Engineering,ME Mechanical,GM,900,1284,,,,1861
+Dayananda Sagar College of Engineering,ME Mechanical,SCG,1439,1338,,,,2868
+Dayananda Sagar College of Engineering,ME Mechanical,GMR,994,1299,,,,0
+Dayananda Sagar College of Engineering,ME Mechanical,SCR,0,3706,,,,0
+Dayananda Sagar College of Engineering,ME Mechanical,STG,0,0,,,,4337
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,2AG,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,GM,0,,,,,2170
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,SCG,0,,,,,2841
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,GMR,0,,,,,2857
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,SCR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,AI Artificial Intelligence,STG,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,CE Civil,2AG,1959,,,,,4828
+Sir M.Visveswaraya Institute of Technology,CE Civil,GM,978,,,,,3282
+Sir M.Visveswaraya Institute of Technology,CE Civil,SCG,1945,,,,,3446
+Sir M.Visveswaraya Institute of Technology,CE Civil,GMR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,CE Civil,SCR,4628,,,,,0
+Sir M.Visveswaraya Institute of Technology,CE Civil,STG,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,CS Computers,2AG,2650,,,,,2162
+Sir M.Visveswaraya Institute of Technology,CS Computers,GM,2277,,,,,1664
+Sir M.Visveswaraya Institute of Technology,CS Computers,SCG,2577,,,,,3016
+Sir M.Visveswaraya Institute of Technology,CS Computers,GMR,3745,,,,,2001
+Sir M.Visveswaraya Institute of Technology,CS Computers,SCR,0,,,,,5123
+Sir M.Visveswaraya Institute of Technology,CS Computers,STG,0,,,,,3106
+Sir M.Visveswaraya Institute of Technology,EC Electronics,2AG,1668,,,,,1888
+Sir M.Visveswaraya Institute of Technology,EC Electronics,GM,1375,,,,,1885
+Sir M.Visveswaraya Institute of Technology,EC Electronics,SCG,3717,,,,,2848
+Sir M.Visveswaraya Institute of Technology,EC Electronics,GMR,1894,,,,,2060
+Sir M.Visveswaraya Institute of Technology,EC Electronics,SCR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,EC Electronics,STG,0,,,,,2654
+Sir M.Visveswaraya Institute of Technology,EE Electrical,2AG,3362,,,,,3088
+Sir M.Visveswaraya Institute of Technology,EE Electrical,GM,2465,,,,,1993
+Sir M.Visveswaraya Institute of Technology,EE Electrical,SCG,4095,,,,,2268
+Sir M.Visveswaraya Institute of Technology,EE Electrical,GMR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,EE Electrical,SCR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,EE Electrical,STG,0,,,,,5187
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,2AG,2256,,,,,4162
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,GM,1987,,,,,2761
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,SCG,2320,,,,,3266
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,GMR,0,,,,,3593
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,SCR,0,,,,,0
+Sir M.Visveswaraya Institute of Technology,ME Mechanical,STG,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,2AG,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,GM,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,SCG,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,GMR,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,SCR,0,,,,,0
+S J C Institute of Technology,AI Artificial Intelligence,STG,0,,,,,0
+S J C Institute of Technology,CE Civil,2AG,12486,,,,,8029
+S J C Institute of Technology,CE Civil,GM,8569,,,,,3995
+S J C Institute of Technology,CE Civil,SCG,14947,,,,,10588
+S J C Institute of Technology,CE Civil,GMR,0,,,,,0
+S J C Institute of Technology,CE Civil,SCR,0,,,,,0
+S J C Institute of Technology,CE Civil,STG,10109,,,,,0
+S J C Institute of Technology,CS Computers,2AG,7864,,,,,13031
+S J C Institute of Technology,CS Computers,GM,6833,,,,,6964
+S J C Institute of Technology,CS Computers,SCG,0,,,,,0
+S J C Institute of Technology,CS Computers,GMR,9784,,,,,0
+S J C Institute of Technology,CS Computers,SCR,0,,,,,7884
+S J C Institute of Technology,CS Computers,STG,0,,,,,12419
+S J C Institute of Technology,EC Electronics,2AG,11072,,,,,4115
+S J C Institute of Technology,EC Electronics,GM,7158,,,,,3715
+S J C Institute of Technology,EC Electronics,SCG,0,,,,,13944
+S J C Institute of Technology,EC Electronics,GMR,9803,,,,,5417
+S J C Institute of Technology,EC Electronics,SCR,0,,,,,0
+S J C Institute of Technology,EC Electronics,STG,0,,,,,7545
+S J C Institute of Technology,EE Electrical,2AG,0,,,,,0
+S J C Institute of Technology,EE Electrical,GM,0,,,,,0
+S J C Institute of Technology,EE Electrical,SCG,0,,,,,0
+S J C Institute of Technology,EE Electrical,GMR,0,,,,,0
+S J C Institute of Technology,EE Electrical,SCR,0,,,,,0
+S J C Institute of Technology,EE Electrical,STG,0,,,,,0
+S J C Institute of Technology,ME Mechanical,2AG,6032,,,,,0
+S J C Institute of Technology,ME Mechanical,GM,2785,,,,,1801
+S J C Institute of Technology,ME Mechanical,SCG,5751,,,,,0
+S J C Institute of Technology,ME Mechanical,GMR,3697,,,,,0
+S J C Institute of Technology,ME Mechanical,SCR,0,,,,,0
+S J C Institute of Technology,ME Mechanical,STG,5845,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,2AG,0,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,GM,0,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,SCG,0,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,GMR,0,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,SCR,0,,,,,0
+Siddaganga Institute of Technology,AI Artificial Intelligence,STG,0,,,,,0
+Siddaganga Institute of Technology,CE Civil,2AG,449,,,,,1536
+Siddaganga Institute of Technology,CE Civil,GM,168,,,,,626
+Siddaganga Institute of Technology,CE Civil,SCG,1356,,,,,2979
+Siddaganga Institute of Technology,CE Civil,GMR,214,,,,,878
+Siddaganga Institute of Technology,CE Civil,SCR,0,,,,,0
+Siddaganga Institute of Technology,CE Civil,STG,0,,,,,2670
+Siddaganga Institute of Technology,CS Computers,2AG,1979,,,,,550
+Siddaganga Institute of Technology,CS Computers,GM,722,,,,,435
+Siddaganga Institute of Technology,CS Computers,SCG,4464,,,,,1199
+Siddaganga Institute of Technology,CS Computers,GMR,1513,,,,,680
+Siddaganga Institute of Technology,CS Computers,SCR,0,,,,,3382
+Siddaganga Institute of Technology,CS Computers,STG,0,,,,,2479
+Siddaganga Institute of Technology,EC Electronics,2AG,507,,,,,756
+Siddaganga Institute of Technology,EC Electronics,GM,336,,,,,566
+Siddaganga Institute of Technology,EC Electronics,SCG,1455,,,,,983
+Siddaganga Institute of Technology,EC Electronics,GMR,0,,,,,777
+Siddaganga Institute of Technology,EC Electronics,SCR,0,,,,,0
+Siddaganga Institute of Technology,EC Electronics,STG,0,,,,,1944
+Siddaganga Institute of Technology,EE Electrical,2AG,807,,,,,1016
+Siddaganga Institute of Technology,EE Electrical,GM,756,,,,,746
+Siddaganga Institute of Technology,EE Electrical,SCG,4504,,,,,1741
+Siddaganga Institute of Technology,EE Electrical,GMR,0,,,,,0
+Siddaganga Institute of Technology,EE Electrical,SCR,0,,,,,0
+Siddaganga Institute of Technology,EE Electrical,STG,0,,,,,0
+Siddaganga Institute of Technology,ME Mechanical,2AG,808,,,,,2159
+Siddaganga Institute of Technology,ME Mechanical,GM,462,,,,,1503
+Siddaganga Institute of Technology,ME Mechanical,SCG,1901,,,,,4833
+Siddaganga Institute of Technology,ME Mechanical,GMR,595,,,,,0
+Siddaganga Institute of Technology,ME Mechanical,SCR,0,,,,,0
+Siddaganga Institute of Technology,ME Mechanical,STG,0,,,,,3280
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,2AG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,GM,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,SCG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,GMR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,SCR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),AI Artificial Intelligence,STG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),CE Civil,2AG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),CE Civil,GM,92,,,,,1790
+JSS Science and Technology University(Formerly SJCE),CE Civil,SCG,0,,,,,2629
+JSS Science and Technology University(Formerly SJCE),CE Civil,GMR,156,,,,,0
+JSS Science and Technology University(Formerly SJCE),CE Civil,SCR,0,,,,,3675
+JSS Science and Technology University(Formerly SJCE),CE Civil,STG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),CS Computers,2AG,0,,,,,333
+JSS Science and Technology University(Formerly SJCE),CS Computers,GM,116,,,,,167
+JSS Science and Technology University(Formerly SJCE),CS Computers,SCG,0,,,,,454
+JSS Science and Technology University(Formerly SJCE),CS Computers,GMR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),CS Computers,SCR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),CS Computers,STG,753,,,,,0
+JSS Science and Technology University(Formerly SJCE),EC Electronics,2AG,310,,,,,0
+JSS Science and Technology University(Formerly SJCE),EC Electronics,GM,183,,,,,301
+JSS Science and Technology University(Formerly SJCE),EC Electronics,SCG,826,,,,,0
+JSS Science and Technology University(Formerly SJCE),EC Electronics,GMR,280,,,,,0
+JSS Science and Technology University(Formerly SJCE),EC Electronics,SCR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),EC Electronics,STG,0,,,,,1794
+JSS Science and Technology University(Formerly SJCE),EE Electrical,2AG,276,,,,,0
+JSS Science and Technology University(Formerly SJCE),EE Electrical,GM,271,,,,,0
+JSS Science and Technology University(Formerly SJCE),EE Electrical,SCG,769,,,,,0
+JSS Science and Technology University(Formerly SJCE),EE Electrical,GMR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),EE Electrical,SCR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),EE Electrical,STG,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,2AG,266,,,,,0
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,GM,169,,,,,1803
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,SCG,761,,,,,0
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,GMR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,SCR,0,,,,,0
+JSS Science and Technology University(Formerly SJCE),ME Mechanical,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,2AG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,GM,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,SCG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,GMR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,SCR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,AI Artificial Intelligence,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,2AG,1007,,,,,3156
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,GM,464,,,,,2549
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,SCG,1099,,,,,7624
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,GMR,578,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,SCR,4034,,,,,14801
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CE Civil,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,2AG,4980,,,,,4122
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,GM,1418,,,,,2252
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,SCG,4240,,,,,10075
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,GMR,3452,,,,,4549
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,SCR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,CS Computers,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,2AG,1067,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,GM,605,,,,,3449
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,SCG,1749,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,GMR,965,,,,,4622
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,SCR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EC Electronics,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,2AG,2437,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,GM,1738,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,SCG,3654,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,GMR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,SCR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,EE Electrical,STG,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,2AG,1163,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,GM,788,,,,,4862
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,SCG,1491,,,,,11551
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,GMR,977,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,SCR,0,,,,,0
+K L E Dr. M S Sheshagiri College of Engineering and Technology,ME Mechanical,STG,4181,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,2AG,0,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,GM,0,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,SCG,0,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,GMR,0,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,SCR,0,,,,,0
+K.L.S. Gogte Institute of Technology,AI Artificial Intelligence,STG,0,,,,,0
+K.L.S. Gogte Institute of Technology,CE Civil,2AG,1125,,,,,3039
+K.L.S. Gogte Institute of Technology,CE Civil,GM,366,,,,,1120
+K.L.S. Gogte Institute of Technology,CE Civil,SCG,482,,,,,3946
+K.L.S. Gogte Institute of Technology,CE Civil,GMR,0,,,,,3699
+K.L.S. Gogte Institute of Technology,CE Civil,SCR,4188,,,,,0
+K.L.S. Gogte Institute of Technology,CE Civil,STG,0,,,,,0
+K.L.S. Gogte Institute of Technology,CS Computers,2AG,1283,,,,,938
+K.L.S. Gogte Institute of Technology,CS Computers,GM,1147,,,,,789
+K.L.S. Gogte Institute of Technology,CS Computers,SCG,2977,,,,,3515
+K.L.S. Gogte Institute of Technology,CS Computers,GMR,1394,,,,,2287
+K.L.S. Gogte Institute of Technology,CS Computers,SCR,0,,,,,0
+K.L.S. Gogte Institute of Technology,CS Computers,STG,8958,,,,,2048
+K.L.S. Gogte Institute of Technology,EC Electronics,2AG,963,,,,,1839
+K.L.S. Gogte Institute of Technology,EC Electronics,GM,272,,,,,1092
+K.L.S. Gogte Institute of Technology,EC Electronics,SCG,1583,,,,,6319
+K.L.S. Gogte Institute of Technology,EC Electronics,GMR,766,,,,,1303
+K.L.S. Gogte Institute of Technology,EC Electronics,SCR,0,,,,,0
+K.L.S. Gogte Institute of Technology,EC Electronics,STG,0,,,,,5426
+K.L.S. Gogte Institute of Technology,EE Electrical,2AG,1301,,,,,1340
+K.L.S. Gogte Institute of Technology,EE Electrical,GM,1131,,,,,1206
+K.L.S. Gogte Institute of Technology,EE Electrical,SCG,0,,,,,0
+K.L.S. Gogte Institute of Technology,EE Electrical,GMR,0,,,,,0
+K.L.S. Gogte Institute of Technology,EE Electrical,SCR,0,,,,,0
+K.L.S. Gogte Institute of Technology,EE Electrical,STG,0,,,,,2771
+K.L.S. Gogte Institute of Technology,ME Mechanical,2AG,1003,,,,,0
+K.L.S. Gogte Institute of Technology,ME Mechanical,GM,486,,,,,1511
+K.L.S. Gogte Institute of Technology,ME Mechanical,SCG,1472,,,,,3431
+K.L.S. Gogte Institute of Technology,ME Mechanical,GMR,497,,,,,0
+K.L.S. Gogte Institute of Technology,ME Mechanical,SCR,0,,,,,0
+K.L.S. Gogte Institute of Technology,ME Mechanical,STG,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,2AG,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,GM,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,SCG,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,GMR,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,SCR,0,,,,,0
+N M A M Institutute of Technology,AI Artificial Intelligence,STG,0,,,,,0
+N M A M Institutute of Technology,CE Civil,2AG,5597,,,,,4302
+N M A M Institutute of Technology,CE Civil,GM,4822,,,,,3369
+N M A M Institutute of Technology,CE Civil,SCG,6314,,,,,3933
+N M A M Institutute of Technology,CE Civil,GMR,4896,,,,,3450
+N M A M Institutute of Technology,CE Civil,SCR,10936,,,,,0
+N M A M Institutute of Technology,CE Civil,STG,0,,,,,4962
+N M A M Institutute of Technology,CS Computers,2AG,4550,,,,,1729
+N M A M Institutute of Technology,CS Computers,GM,2281,,,,,1217
+N M A M Institutute of Technology,CS Computers,SCG,0,,,,,3655
+N M A M Institutute of Technology,CS Computers,GMR,2757,,,,,1229
+N M A M Institutute of Technology,CS Computers,SCR,0,,,,,0
+N M A M Institutute of Technology,CS Computers,STG,0,,,,,0
+N M A M Institutute of Technology,EC Electronics,2AG,5906,,,,,3723
+N M A M Institutute of Technology,EC Electronics,GM,3888,,,,,2277
+N M A M Institutute of Technology,EC Electronics,SCG,13798,,,,,6958
+N M A M Institutute of Technology,EC Electronics,GMR,4801,,,,,2483
+N M A M Institutute of Technology,EC Electronics,SCR,0,,,,,0
+N M A M Institutute of Technology,EC Electronics,STG,0,,,,,0
+N M A M Institutute of Technology,EE Electrical,2AG,3977,,,,,2134
+N M A M Institutute of Technology,EE Electrical,GM,3653,,,,,1170
+N M A M Institutute of Technology,EE Electrical,SCG,5635,,,,,5965
+N M A M Institutute of Technology,EE Electrical,GMR,3783,,,,,1207
+N M A M Institutute of Technology,EE Electrical,SCR,0,,,,,6243
+N M A M Institutute of Technology,EE Electrical,STG,0,,,,,0
+N M A M Institutute of Technology,ME Mechanical,2AG,7189,,,,,3315
+N M A M Institutute of Technology,ME Mechanical,GM,6159,,,,,3024
+N M A M Institutute of Technology,ME Mechanical,SCG,7762,,,,,6138
+N M A M Institutute of Technology,ME Mechanical,GMR,6746,,,,,0
+N M A M Institutute of Technology,ME Mechanical,SCR,0,,,,,9008
+N M A M Institutute of Technology,ME Mechanical,STG,0,,,,,0
