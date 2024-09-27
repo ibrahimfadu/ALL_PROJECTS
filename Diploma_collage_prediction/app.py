@@ -54,10 +54,10 @@ def index():
 
         if not past_cutoffs_row.empty:
             # Get past cutoffs as a list
-            past_cutoffs = past_cutoffs_row.iloc[0][['Cutoff_2019', 'Cutoff_2020', 'Cutoff_2021', 'Cutoff_2022', 'Cutoff_2023']].tolist()
+            past_cutoffs = past_cutoffs_row.iloc[0][['Cutoff_2019', 'Cutoff_2020', 'Cutoff_2021', 'Cutoff_2022', 'Cutoff_2023','Cutoff_2024']].tolist()
         else:
             # Handle the case where there is no matching record
-            past_cutoffs = [0, 0, 0, 0, 0]  # Default values
+            past_cutoffs = [0, 0, 0, 0, 0,0]  # Default values
 
         # Prepare the input for prediction
         input_data = pd.DataFrame({
@@ -77,7 +77,17 @@ def index():
         # Format the prediction to an integer
         formatted_cutoff = int(round(predicted_cutoff))
 
-        return render_template('index.html', predicted_cutoff=formatted_cutoff, colleges=df['COLLEGE'].unique(), branches=df['BRANCH'].unique(), categories=df['CATEGORIES'].unique())
+        # Calculate differences from previous cutoffs
+        differences = [cutoff - formatted_cutoff for cutoff in past_cutoffs]
+
+        # Redirect to the result page with previous cutoffs, predicted cutoff, and differences
+        return render_template('result.html', 
+                               college=college, 
+                               branch=branch, 
+                               category=category, 
+                               past_cutoffs=past_cutoffs, 
+                               predicted_cutoff=formatted_cutoff, 
+                               differences=differences)
 
     # Prepare dropdown lists for the form
     return render_template('index.html', colleges=df['COLLEGE'].unique(), branches=df['BRANCH'].unique(), categories=df['CATEGORIES'].unique())
